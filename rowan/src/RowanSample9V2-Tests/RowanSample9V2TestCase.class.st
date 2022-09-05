@@ -23,6 +23,13 @@ RowanSample9V2TestCase >> testInstVars_NewRowanSample9V2Class [
 ]
 
 { #category : 'tests' }
+RowanSample9V2TestCase >> testInstVars_NewRowanSample9V2Subclass [
+	| x |
+	self assert: (x := NewRowanSample9V2Subclass new ivar1) = 1.
+
+]
+
+{ #category : 'tests' }
 RowanSample9V2TestCase >> testNewRowanSample9V2Class [
 	| x |
 	self assert: (x := NewRowanSample9V2Class new foo) = 5.
