@@ -4,7 +4,7 @@ I am an example class
 Class {
 	#name : 'RowanSample9V2IdentityKeyValueDictionary',
 	#superclass : 'IdentityKeyValueDictionary',
-	#category : 'RowanSample9V2-Core'
+	#category : 'RowanSample9V2-GemStone'
 }
 
 { #category : 'accessing' }
