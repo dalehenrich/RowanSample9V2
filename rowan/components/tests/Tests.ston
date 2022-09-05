@@ -7,5 +7,16 @@ RwSimpleNestedProjectLoadComponentV2 {
 		'RowanSample9V2-GemStone-Tests',
 		'RowanSample9V2-Tests'
 	],
+	#conditionalPackageMapSpecs : {
+		'gemstone' : {
+			'allusers' : {
+				#packageNameToPlatformPropertiesMap : {
+					'RowanSample9V2-GemStone-Tests' : {
+						'symbolDictName' : 'RowanSample9_2'
+					}
+				}
+			}
+		}
+	},
 	#comment : 'Primary component used for loading the test classes.'
 }
