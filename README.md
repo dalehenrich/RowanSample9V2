@@ -4,6 +4,7 @@ spec_0002 with different symbol dict mappings
 RwLoadSpecificationV2 {
 	#specName : 'spec_0006',
 	#projectName : 'RowanSample9V2',
+	#projectAlias : 'RowanSample9',
 	#gitUrl : 'git@github.com:dalehenrich/RowanSample9V2.git',
 	#revision : 'spec_0006',
 	#projectSpecFile : 'rowan/project.ston',

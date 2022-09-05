@@ -6,21 +6,21 @@ RwSimpleProjectLoadComponentV2 {
 		'tests/Tests'
 	],
 	#packageNames : [
-		'RowanSample9V2-Core',
-		'RowanSample9V2-Extensions',
-		'RowanSample9V2-GemStone'
+		'RowanSample9-Core',
+		'RowanSample9-Extensions',
+		'RowanSample9-GemStone'
 	],
 	#conditionalPackageMapSpecs : {
 		'gemstone' : {
 			'allusers' : {
 				#packageNameToPlatformPropertiesMap : {
-					'RowanSample9V2-Core' : {
+					'RowanSample9-Core' : {
 						'symbolDictName' : 'RowanSample9_2'
 					},
-					'RowanSample9V2-Extensions' : {
+					'RowanSample9-Extensions' : {
 						'symbolDictName' : 'RowanSample9_2'
 					},
-					'RowanSample9V2-GemStone' : {
+					'RowanSample9-GemStone' : {
 						'symbolDictName' : 'RowanSample9_3'
 					}
 				}
