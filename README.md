@@ -4,6 +4,7 @@ Start with spec_0038, rename package to RowanSample9-RenamedPackage (issue_185_2
 RwLoadSpecificationV2 {
 	#specName : 'spec_0041',
 	#projectName : 'RowanSample9V2',
+	#projectAlias : 'RowanSample9',
 	#gitUrl : 'git@github.com:dalehenrich/RowanSample9V2.git',
 	#revision : 'spec_0041',
 	#projectSpecFile : 'rowan/project.ston',
