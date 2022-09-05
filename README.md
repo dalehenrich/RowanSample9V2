@@ -4,6 +4,7 @@ Start with spec_0002, add new class in new package. spec_0002 = issue_185_0, spe
 RwLoadSpecificationV2 {
 	#specName : 'spec_0038',
 	#projectName : 'RowanSample9V2',
+	#projectAlias : 'RowanSample9',
 	#gitUrl : 'git@github.com:dalehenrich/RowanSample9V2.git',
 	#revision : 'spec_0038',
 	#projectSpecFile : 'rowan/project.ston',
