@@ -1,11 +1,11 @@
-# RowanSample9V2 - spec_0029
-Start with  spec_0028, update the project structure using the new component creation API --- spec_0026 thru ?? represents the evolution of a project.
+# RowanSample9V2 - spec_0030
+Start with  spec_0029, update the project structure using the new component creation API --- spec_0026 thru ?? represents the evolution of a project.
 ```
 RwLoadSpecificationV2 {
-	#specName : 'spec_0029',
+	#specName : 'spec_0030',
 	#projectName : 'RowanSample9V2',
 	#gitUrl : 'git@github.com:dalehenrich/RowanSample9V2.git',
-	#revision : 'spec_0029',
+	#revision : 'spec_0030',
 	#projectSpecFile : 'rowan/project.ston',
 	#componentNames : [
 		'RowanSample9V2'
@@ -20,16 +20,16 @@ RwLoadSpecificationV2 {
 			}
 		}
 	},
-	#comment : 'Start with  spec_0028, update the project structure using the new component creation API --- spec_0026 thru ?? represents the evolution of a project.'
+	#comment : 'Start with  spec_0029, update the project structure using the new component creation API --- spec_0026 thru ?? represents the evolution of a project.'
 }
 
 RwTestProjectLibraryIndexCard {
-	#name : 'index_0029',
-	#title : 'Start with  spec_0028, update the project structure using the new component creation API --- spec_0026 thru ?? represents the evolution of a project.',
-	#specName : 'spec_0029',
-	#index : 29,
-	#derivedFrom : 'spec_0028',
-	#comment : 'add 2 more classes, tests and packages (one class/package) and create category components: Core, Definitions, Specs, Tests',
+	#name : 'index_0030',
+	#title : 'Start with  spec_0029, update the project structure using the new component creation API --- spec_0026 thru ?? represents the evolution of a project.',
+	#specName : 'spec_0030',
+	#index : 30,
+	#derivedFrom : 'spec_0029',
+	#comment : 'add platform conditional extension methods and classes plus tests - gemstone pharo gs3.5-',
 	#rowanIssues : [
 		573
 	],
