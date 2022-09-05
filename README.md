@@ -4,6 +4,7 @@ Starting with spec_0015, move an extension method from one package to another wi
 RwLoadSpecificationV2 {
 	#specName : 'spec_0016',
 	#projectName : 'RowanSample9V2',
+	#projectAlias : 'RowanSample9',
 	#gitUrl : 'git@github.com:dalehenrich/RowanSample9V2.git',
 	#revision : 'spec_0016',
 	#projectSpecFile : 'rowan/project.ston',
