@@ -6,7 +6,7 @@ RwSubcomponent {
 		'common/platforms/Loader'
 	],
 	#packageNames : [
-		'RowanSample9V2-Loader'
+		'RowanSample9-Loader'
 	],
 	#comment : ''
 }

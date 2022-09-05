@@ -6,7 +6,7 @@ RwPlatformSubcomponent {
 	#projectNames : [ ],
 	#componentNames : [ ],
 	#packageNames : [
-		'RowanSample9V2-Loader-GemStone'
+		'RowanSample9-Loader-GemStone'
 	],
 	#comment : ''
 }
