@@ -1,4 +1,4 @@
-# RowanSample9
+# RowanSample9V2
 Sample project that is being used to develop the **final** version of the V2.0 project handling API.
 ## Summary of Load Specs
 ### [spec_0000](https://github.com/dalehenrich/RowanSample9V2/tree/spec_0000)
