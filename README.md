@@ -32,6 +32,7 @@ Package Group Example 3: define package groups using packages and components. St
 RwLoadSpecificationV2 {
 	#specName : 'spec_0063',
 	#projectName : 'RowanSample9V2',
+	#projectAlias : 'RowanSample9',
 	#gitUrl : 'git@github.com:dalehenrich/RowanSample9V2.git',
 	#revision : 'spec_0063',
 	#projectSpecFile : 'rowan/project.ston',

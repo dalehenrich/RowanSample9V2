@@ -15,9 +15,9 @@ RwLoadComponent {
 		'WorkGroup_dkh_group'
 	],
 	#packageNames : [
-		'RowanSample9V2-Core',
-		'RowanSample9V2-Core-Projects',
-		'RowanSample9V2-Core-Rowan'
+		'RowanSample9-Core',
+		'RowanSample9-Core-Projects',
+		'RowanSample9-Core-Rowan'
 	],
 	#comment : 'Primary component used for loading the project.'
 }
