@@ -4,7 +4,7 @@ RwPlatformNestedProjectLoadComponentV2 {
 		'pharo'
 	],
 	#packageNames : [
-		'RowanSample9V2-Definitions-Pharo'
+		'RowanSample9-Definitions-Pharo'
 	],
 	#comment : ''
 }
