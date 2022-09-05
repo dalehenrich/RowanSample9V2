@@ -7,7 +7,7 @@ Class {
 	#classVars : [
 		'CVar1'
 	],
-	#category : 'RowanSample9V2-NewPackage'
+	#category : 'RowanSample9V2-RenamedPackage'
 }
 
 { #category : 'accessing' }
