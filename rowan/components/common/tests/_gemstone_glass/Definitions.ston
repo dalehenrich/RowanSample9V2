@@ -5,7 +5,7 @@ RwPlatformNestedProjectLoadComponentV2 {
 		'glass'
 	],
 	#packageNames : [
-		'RowanSample9V2-Definitions-GemStone-Tests'
+		'RowanSample9-Definitions-GemStone-Tests'
 	],
 	#comment : ''
 }

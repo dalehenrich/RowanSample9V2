@@ -1,0 +1,13 @@
+RwSimpleProjectLoadComponentV2 {
+	#name : 'RowanSample9',
+	#condition : 'common',
+	#projectNames : [ ],
+	#componentNames : [
+		'common/Core',
+		'common/Definitions',
+		'common/Specs',
+		'common/Tests'
+	],
+	#packageNames : [ ],
+	#comment : ''
+}
