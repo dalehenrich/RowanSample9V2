@@ -1,8 +1,8 @@
-RwSimpleProjectLoadComponentV2 {
+RwLoadComponent {
 	#name : 'Core',
-	#condition : 'common',
 	#projectNames : [ ],
 	#componentNames : [
+		'common/Core',
 		'tests/Tests'
 	],
 	#packageNames : [
