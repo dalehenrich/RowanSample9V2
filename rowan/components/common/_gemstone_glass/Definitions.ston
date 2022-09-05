@@ -1,0 +1,11 @@
+RwPlatformNestedProjectLoadComponentV2 {
+	#name : 'common/_gemstone_glass/Definitions',
+	#condition : [
+		'gemstone',
+		'glass'
+	],
+	#packageNames : [
+		'RowanSample9V2-Definitions-GemStone'
+	],
+	#comment : ''
+}
