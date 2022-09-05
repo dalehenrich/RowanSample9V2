@@ -12,7 +12,9 @@ RowanSample9V2TestCase >> test [  self assert: RowanSample9V2Class1 new foo = 1
 ]
 
 { #category : 'tests' }
-RowanSample9V2TestCase >> test2 [  self assert: RowanSample9V2Class1 bar = 'bar'
+RowanSample9V2TestCase >> testPostLoadDoits [
+	self assert: RowanSample9V2Class1 postLoadDoit = 1.
+
 ]
 
 { #category : 'tests' }
