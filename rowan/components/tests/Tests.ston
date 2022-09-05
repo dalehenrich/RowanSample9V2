@@ -8,7 +8,7 @@ RwSubcomponent {
 		'tests/alt3/Tests'
 	],
 	#packageNames : [
-		'RowanSample9V2-Tests'
+		'RowanSample9-Tests'
 	],
 	#comment : 'Primary component used for loading the test classes.'
 }

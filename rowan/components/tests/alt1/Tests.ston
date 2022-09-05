@@ -6,7 +6,7 @@ RwSubcomponent {
 		'tests/alt1/platform/Tests'
 	],
 	#packageNames : [
-		'RowanSample9V2-Tests-Alt1'
+		'RowanSample9-Tests-Alt1'
 	],
 	#comment : ''
 }

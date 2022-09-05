@@ -4,6 +4,7 @@ Component api revamp. Start with spec_0001; add 3 conditions: alt1, alt2, alt3; 
 RwLoadSpecificationV2 {
 	#specName : 'spec_0059',
 	#projectName : 'RowanSample9V2',
+	#projectAlias : 'RowanSample9',
 	#gitUrl : 'git@github.com:dalehenrich/RowanSample9V2.git',
 	#revision : 'spec_0059',
 	#projectSpecFile : 'rowan/project.ston',
