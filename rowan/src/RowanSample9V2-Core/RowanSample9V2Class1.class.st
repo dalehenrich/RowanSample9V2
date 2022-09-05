@@ -7,7 +7,7 @@ Class {
 	#instVars : [
 		'ivar1'
 	],
-	#category : 'RowanSample9V2-Core'
+	#category : nil
 }
 
 { #category : 'accessing' }
