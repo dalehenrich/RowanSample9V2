@@ -1,9 +1,9 @@
-# RowanSample9V2 - spec_0000
+# RowanSample9 - spec_0000
 Empty project with no packages
 ```
 RwLoadSpecificationV2 {
 	#specName : 'spec_0000',
-	#projectName : 'RowanSample9V2',
+	#projectName : 'RowanSample9',
 	#gitUrl : 'git@github.com:dalehenrich/RowanSample9V2.git',
 	#revision : 'spec_0000',
 	#projectSpecFile : 'rowan/project.ston',
