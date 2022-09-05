@@ -3,18 +3,24 @@ RwSimpleProjectLoadComponentV2 {
 	#condition : 'common',
 	#projectNames : [ ],
 	#componentNames : [
-		'subs/Core1',
-		'subs/Core2',
 		'tests/Tests'
 	],
 	#packageNames : [
-		'RowanSample9V2-Core'
+		'RowanSample9V2-Core',
+		'RowanSample9V2-Extensions',
+		'RowanSample9V2-Extensions1'
 	],
 	#conditionalPackageMapSpecs : {
 		'gemstone' : {
 			'allusers' : {
 				#packageNameToPlatformPropertiesMap : {
 					'RowanSample9V2-Core' : {
+						'symbolDictName' : 'RowanSample9_1'
+					},
+					'RowanSample9V2-Extensions' : {
+						'symbolDictName' : 'RowanSample9_1'
+					},
+					'RowanSample9V2-Extensions1' : {
 						'symbolDictName' : 'RowanSample9_1'
 					}
 				}
