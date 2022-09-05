@@ -4,6 +4,7 @@ Start with spec_0002, add constraints to RowanSample9Class1 and RowanSample9Iden
 RwLoadSpecificationV2 {
 	#specName : 'spec_0037',
 	#projectName : 'RowanSample9V2',
+	#projectAlias : 'RowanSample9',
 	#gitUrl : 'git@github.com:dalehenrich/RowanSample9V2.git',
 	#revision : 'spec_0037',
 	#projectSpecFile : 'rowan/project.ston',
