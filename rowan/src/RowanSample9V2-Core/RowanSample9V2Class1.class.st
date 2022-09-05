@@ -5,7 +5,19 @@ Class {
 	#name : 'RowanSample9V2Class1',
 	#superclass : 'Object',
 	#instVars : [
-		'ivar1'
+		'aaa',
+		'bbb',
+		'ccc'
+	],
+	#gs_constraints : [
+		[
+			'aaa',
+			'String'
+		],
+		[
+			'bbb',
+			'Integer'
+		]
 	],
 	#category : 'RowanSample9V2-Core'
 }
