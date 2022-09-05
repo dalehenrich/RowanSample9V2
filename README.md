@@ -4,6 +4,7 @@ Empty project with no packages
 RwLoadSpecificationV2 {
 	#specName : 'spec_0000',
 	#projectName : 'RowanSample9',
+	#projectAlias : 'RowanSample9V2',
 	#gitUrl : 'git@github.com:dalehenrich/RowanSample9V2.git',
 	#revision : 'spec_0000',
 	#projectSpecFile : 'rowan/project.ston',
