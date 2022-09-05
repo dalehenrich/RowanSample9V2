@@ -1,1 +1,1 @@
-(Rowan globalNamed: 'RowanSample9V2Class1') ifNotNil: [:class | class perform: #preLoadDoit: with: 'done' ]
+(Rowan globalNamed: 'RowanSample9Class1') ifNotNil: [:class | class perform: #preLoadDoit: with: 'done' ]

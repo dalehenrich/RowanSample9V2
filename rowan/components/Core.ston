@@ -8,8 +8,8 @@ RwSimpleProjectLoadComponentV2 {
 		'tests/Tests'
 	],
 	#packageNames : [
-		'RowanSample9V2-Core',
-		'RowanSample9V2-Extensions'
+		'RowanSample9-Core',
+		'RowanSample9-Extensions'
 	],
 	#comment : 'Primary component used for loading the core classes.'
 }
