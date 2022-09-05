@@ -1,5 +1,5 @@
 RwSimpleNestedProjectLoadComponentV2 {
-	#name : 'common/RowanSample9V2',
+	#name : 'common/Tests',
 	#condition : 'common',
 	#projectNames : [ ],
 	#componentNames : [
