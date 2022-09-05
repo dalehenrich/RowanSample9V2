@@ -1457,6 +1457,7 @@ RwTestProjectLibraryIndexCard {
 RwLoadSpecificationV2 {
 	#specName : 'spec_0039',
 	#projectName : 'RowanSample9V2',
+	#projectAlias : 'RowanSample9',
 	#gitUrl : 'git@github.com:dalehenrich/RowanSample9V2.git',
 	#revision : 'spec_0039',
 	#projectSpecFile : 'rowan/project.ston',
