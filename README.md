@@ -1,11 +1,11 @@
-# RowanSample9V2
+# RowanSample9
 Sample project that is being used to develop the **final** version of the V2.0 project handling API.
 ## Summary of Load Specs
 ### [spec_0000](https://github.com/dalehenrich/RowanSample9/tree/spec_0000)
 ```
 RwLoadSpecificationV2 {
 	#specName : 'spec_0000',
-	#projectName : 'RowanSample9V2',
+	#projectName : 'RowanSample9',
 	#gitUrl : 'git@github.com:dalehenrich/RowanSample9V2.git',
 	#revision : 'spec_0000',
 	#projectSpecFile : 'rowan/project.ston',
