@@ -4,7 +4,7 @@ RwSimpleNestedProjectLoadComponentV2 {
 	#projectNames : [ ],
 	#componentNames : [ ],
 	#packageNames : [
-		'RowanSample9V2-RenamedPackage'
+		'RowanSample9-RenamedPackage'
 	],
 	#comment : ''
 }
