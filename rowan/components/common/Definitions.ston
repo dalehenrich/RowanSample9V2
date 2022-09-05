@@ -8,7 +8,7 @@ RwSimpleNestedProjectLoadComponentV2 {
 		'common/tests/Definitions'
 	],
 	#packageNames : [
-		'RowanSample9V2-Definitions'
+		'RowanSample9-Definitions'
 	],
 	#comment : ''
 }
