@@ -1,0 +1,12 @@
+RwSimpleProjectLoadComponentV2 {
+	#name : 'Core',
+	#condition : 'common',
+	#projectNames : [ ],
+	#componentNames : [
+		'vast/Core'
+	],
+	#packageNames : [
+		'RowanSample9V2-Common-Core'
+	],
+	#comment : 'Primary component used for loading the core classes.'
+}
