@@ -1,0 +1,19 @@
+"
+I am an example class
+"
+Class {
+	#name : 'RowanSample9V2Class1',
+	#superclass : 'Object',
+	#gs_options : [
+		'instancesInvariant'
+	],
+	#category : 'RowanSample9V2-Core1'
+}
+
+{ #category : 'accessing' }
+RowanSample9V2Class1 class >> bar [ ^'bar'
+]
+
+{ #category : 'accessing' }
+RowanSample9V2Class1 >> foo [ ^1
+]
