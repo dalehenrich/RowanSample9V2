@@ -3,7 +3,7 @@ Start with  spec_0011, update class definition to match RowanSample1 branch issu
 ```
 RwLoadSpecificationV2 {
 	#specName : 'spec_0033',
-	#projectName : 'RowanSample9V2',
+	#projectName : 'RowanSample9',
 	#gitUrl : 'git@github.com:dalehenrich/RowanSample9V2.git',
 	#revision : 'spec_0033',
 	#projectSpecFile : 'rowan/project.ston',
