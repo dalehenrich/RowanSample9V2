@@ -4,6 +4,7 @@ Two classes, two  packages, plus tests. Primer for Issue 230
 RwLoadSpecificationV2 {
 	#specName : 'spec_0005',
 	#projectName : 'RowanSample9V2',
+	#projectAlias : 'RowanSample9',
 	#gitUrl : 'git@github.com:dalehenrich/RowanSample9V2.git',
 	#revision : 'spec_0005',
 	#projectSpecFile : 'rowan/project.ston',
