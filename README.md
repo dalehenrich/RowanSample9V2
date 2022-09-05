@@ -813,7 +813,7 @@ RwTestProjectLibraryIndexCard {
 ```
 RwLoadSpecificationV2 {
 	#specName : 'spec_0021',
-	#projectName : 'RowanSample9V2',
+	#projectName : 'RowanSample9',
 	#gitUrl : 'git@github.com:dalehenrich/RowanSample9V2.git',
 	#revision : 'spec_0021',
 	#projectSpecFile : 'rowan/project.ston',
