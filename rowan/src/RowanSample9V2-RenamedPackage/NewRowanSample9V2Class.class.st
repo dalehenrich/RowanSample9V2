@@ -4,7 +4,7 @@ I am a new class
 Class {
 	#name : 'NewRowanSample9V2Class',
 	#superclass : 'Object',
-	#category : 'RowanSample9V2-NewPackage'
+	#category : 'RowanSample9V2-RenamedPackage'
 }
 
 { #category : 'accessing' }
