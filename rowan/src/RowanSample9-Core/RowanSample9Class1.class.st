@@ -2,11 +2,11 @@
 I am an example class
 "
 Class {
-	#name : 'RowanSample9V2Class1',
+	#name : 'RowanSample9Class1',
 	#superclass : 'RowanSample10Class1',
-	#category : 'RowanSample9V2-Core'
+	#category : 'RowanSample9-Core'
 }
 
 { #category : 'accessing' }
-RowanSample9V2Class1 >> foo [ ^1
+RowanSample9Class1 >> foo [ ^1
 ]
