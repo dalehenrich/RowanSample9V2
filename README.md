@@ -4,7 +4,6 @@ Start with spec_0001, remove the instance variable. Foundation for instance migr
 RwLoadSpecificationV2 {
 	#specName : 'spec_0034',
 	#projectName : 'RowanSample9V2',
-	#projectAlias : 'RowanSample9',
 	#gitUrl : 'git@github.com:dalehenrich/RowanSample9V2.git',
 	#revision : 'spec_0034',
 	#projectSpecFile : 'rowan/project.ston',
