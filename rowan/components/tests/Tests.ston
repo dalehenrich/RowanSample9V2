@@ -4,14 +4,14 @@ RwSimpleNestedProjectLoadComponentV2 {
 	#projectNames : [ ],
 	#componentNames : [ ],
 	#packageNames : [
-		'RowanSample9-GemStone-Tests',
-		'RowanSample9-Tests'
+		'RowanSample9V2-GemStone-Tests',
+		'RowanSample9V2-Tests'
 	],
 	#conditionalPackageMapSpecs : {
 		'gemstone' : {
 			'allusers' : {
 				#packageNameToPlatformPropertiesMap : {
-					'RowanSample9-GemStone-Tests' : {
+					'RowanSample9V2-GemStone-Tests' : {
 						'symbolDictName' : 'RowanSample9_2'
 					}
 				}
