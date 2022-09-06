@@ -5,7 +5,7 @@ Class {
 		'e',
 		'ivar2'
 	],
-	#category : 'RowanSample9-Core'
+	#category : 'RowanSample9V2-Core'
 }
 
 { #category : 'accessing' }
