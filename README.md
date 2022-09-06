@@ -3,7 +3,7 @@ Start with spec_0021, add pre and post load doits adjust tests to validate that 
 ```
 RwLoadSpecificationV2 {
 	#specName : 'spec_0022',
-	#projectName : 'RowanSample9',
+	#projectName : 'RowanSample9V2',
 	#gitUrl : 'git@github.com:dalehenrich/RowanSample9V2.git',
 	#revision : 'spec_0022',
 	#projectSpecFile : 'rowan/project.ston',
