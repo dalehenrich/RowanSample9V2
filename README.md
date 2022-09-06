@@ -4,7 +4,6 @@ Start with spec_0035, move ivs ivar1 and ivar2 up to the top of the hierarcy; me
 RwLoadSpecificationV2 {
 	#specName : 'spec_0036',
 	#projectName : 'RowanSample9V2',
-	#projectAlias : 'RowanSample9',
 	#gitUrl : 'git@github.com:dalehenrich/RowanSample9V2.git',
 	#revision : 'spec_0036',
 	#projectSpecFile : 'rowan/project.ston',
