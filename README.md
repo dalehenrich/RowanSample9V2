@@ -4,7 +4,6 @@ one symbol dict specified for gemstone, the rest in default (unspecified)
 RwLoadSpecificationV2 {
 	#specName : 'spec_0009',
 	#projectName : 'RowanSample9V2',
-	#projectAlias : 'RowanSample9',
 	#gitUrl : 'git@github.com:dalehenrich/RowanSample9V2.git',
 	#revision : 'spec_0009',
 	#projectSpecFile : 'rowan/project.ston',
