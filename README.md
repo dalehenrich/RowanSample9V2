@@ -11,7 +11,6 @@ Starting with spec_0014, remove the old (now empty) package from the project as 
 RwLoadSpecificationV2 {
 	#specName : 'spec_0015',
 	#projectName : 'RowanSample9V2',
-	#projectAlias : 'RowanSample9',
 	#gitUrl : 'git@github.com:dalehenrich/RowanSample9V2.git',
 	#revision : 'spec_0015',
 	#projectSpecFile : 'rowan/project.ston',
