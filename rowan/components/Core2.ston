@@ -6,8 +6,8 @@ RwSimpleProjectLoadComponentV2 {
 	#projectNames : [ ],
 	#componentNames : [ ],
 	#packageNames : [
-		'RowanSample9-Core2',
-		'RowanSample9-Tests2'
+		'RowanSample9V2-Core2',
+		'RowanSample9V2-Tests2'
 	],
 	#comment : 'Second component for loading second package'
 }
