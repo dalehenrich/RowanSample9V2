@@ -8,7 +8,7 @@ RwSimpleNestedProjectLoadComponentV2 {
 		'common/v2/Specs'
 	],
 	#packageNames : [
-		'RowanSample9-Specs'
+		'RowanSample9V2-Specs'
 	],
 	#comment : ''
 }

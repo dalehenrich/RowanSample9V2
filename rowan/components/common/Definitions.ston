@@ -8,7 +8,7 @@ RwSimpleNestedProjectLoadComponentV2 {
 		'common/_pharo/Definitions'
 	],
 	#packageNames : [
-		'RowanSample9-Definitions'
+		'RowanSample9V2-Definitions'
 	],
 	#comment : ''
 }
