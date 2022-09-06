@@ -6,18 +6,18 @@ RwSimpleProjectLoadComponentV2 {
 		'Core1'
 	],
 	#packageNames : [
-		'RowanSample9-Core2'
+		'RowanSample9V2-Core2'
 	],
 	#conditionalPackageMapSpecs : {
 		'gemstone' : {
 			'allusers' : {
 				#packageNameToPlatformPropertiesMap : {
-					'RowanSample9-Core2' : {
+					'RowanSample9V2-Core2' : {
 						'symbolDictName' : 'RowanSample9_3'
 					}
 				}
 			}
 		}
 	},
-	#comment : 'contains RowanSample9-Core2 package'
+	#comment : 'contains RowanSample9V2-Core2 package'
 }

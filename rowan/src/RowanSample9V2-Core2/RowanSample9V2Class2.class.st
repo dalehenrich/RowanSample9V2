@@ -2,14 +2,14 @@
 I am an example class
 "
 Class {
-	#name : 'RowanSample9Class1',
+	#name : 'RowanSample9V2Class2',
 	#superclass : 'Object',
 	#instVars : [
 		'ivar1'
 	],
-	#category : 'RowanSample9-Core1'
+	#category : 'RowanSample9V2-Core2'
 }
 
 { #category : 'accessing' }
-RowanSample9Class1 >> foo [ ^1
+RowanSample9V2Class2 >> foo [ ^1
 ]
