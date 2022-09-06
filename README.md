@@ -3,12 +3,12 @@ Start with  spec_0029, update the project structure using the new component crea
 ```
 RwLoadSpecificationV2 {
 	#specName : 'spec_0030',
-	#projectName : 'RowanSample9',
+	#projectName : 'RowanSample9V2',
 	#gitUrl : 'git@github.com:dalehenrich/RowanSample9V2.git',
 	#revision : 'spec_0030',
 	#projectSpecFile : 'rowan/project.ston',
 	#componentNames : [
-		'RowanSample9'
+		'RowanSample9V2'
 	],
 	#customConditionalAttributes : [
 		'tests'

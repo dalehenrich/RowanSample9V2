@@ -4,7 +4,7 @@ RwSimpleNestedProjectLoadComponentV2 {
 	#projectNames : [ ],
 	#componentNames : [ ],
 	#packageNames : [
-		'RowanSample9-Definitions-GemStone-Tests'
+		'RowanSample9V2-Definitions-GemStone-Tests'
 	],
 	#comment : ''
 }
