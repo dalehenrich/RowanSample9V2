@@ -2,7 +2,7 @@
 I am an example class
 "
 Class {
-	#name : 'RowanSample9Class1',
+	#name : 'RowanSample9V2Class1',
 	#superclass : 'Object',
 	#instVars : [
 		'aaa',
@@ -19,9 +19,9 @@ Class {
 			'Integer'
 		]
 	],
-	#category : 'RowanSample9-Core'
+	#category : 'RowanSample9V2-Core'
 }
 
 { #category : 'accessing' }
-RowanSample9Class1 >> foo [ ^1
+RowanSample9V2Class1 >> foo [ ^1
 ]
