@@ -8,13 +8,13 @@ RwSimpleProjectLoadComponentV2 {
 		'tests/Tests'
 	],
 	#packageNames : [
-		'RowanSample9-Core'
+		'RowanSample9V2-Core'
 	],
 	#conditionalPackageMapSpecs : {
 		'gemstone' : {
 			'allusers' : {
 				#packageNameToPlatformPropertiesMap : {
-					'RowanSample9-Core' : {
+					'RowanSample9V2-Core' : {
 						'symbolDictName' : 'RowanSample9_1'
 					}
 				}

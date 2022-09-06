@@ -3,7 +3,7 @@ Conditional components test case
 ```
 RwLoadSpecificationV2 {
 	#specName : 'spec_0019',
-	#projectName : 'RowanSample9',
+	#projectName : 'RowanSample9V2',
 	#gitUrl : 'git@github.com:dalehenrich/RowanSample9V2.git',
 	#revision : 'spec_0019',
 	#projectSpecFile : 'rowan/project.ston',
