@@ -4,7 +4,6 @@ Start with spec_0001; add RowanSample10 as an external project ... based on genS
 RwLoadSpecificationV2 {
 	#specName : 'spec_0060',
 	#projectName : 'RowanSample9V2',
-	#projectAlias : 'RowanSample9',
 	#gitUrl : 'git@github.com:dalehenrich/RowanSample9V2.git',
 	#revision : 'spec_0060',
 	#projectSpecFile : 'rowan/project.ston',
