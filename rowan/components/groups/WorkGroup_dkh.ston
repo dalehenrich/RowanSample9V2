@@ -3,8 +3,8 @@ RwPackageGroup {
 	#condition : 'dkh',
 	#componentNames : [ ],
 	#packageNames : [
-		'RowanSample9-Core',
-		'RowanSample9-Core-Projects'
+		'RowanSample9V2-Core',
+		'RowanSample9V2-Core-Projects'
 	],
 	#comment : 'package group for WorkGroup_dkh'
 }

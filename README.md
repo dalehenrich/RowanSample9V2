@@ -32,7 +32,6 @@ Package Group Example 1: define using only packages, including references to con
 RwLoadSpecificationV2 {
 	#specName : 'spec_0061',
 	#projectName : 'RowanSample9V2',
-	#projectAlias : 'RowanSample9',
 	#gitUrl : 'git@github.com:dalehenrich/RowanSample9V2.git',
 	#revision : 'spec_0061',
 	#projectSpecFile : 'rowan/project.ston',
