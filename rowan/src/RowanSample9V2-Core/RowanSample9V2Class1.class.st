@@ -2,7 +2,7 @@
 I am an example class
 "
 Class {
-	#name : 'RowanSample9Class1',
+	#name : 'RowanSample9V2Class1',
 	#superclass : 'Object',
 	#instVars : [
 		'ivar1'
@@ -11,5 +11,5 @@ Class {
 }
 
 { #category : 'accessing' }
-RowanSample9Class1 >> foo [ ^1
+RowanSample9V2Class1 >> foo [ ^1
 ]
