@@ -6,7 +6,7 @@ RwSubcomponent {
 		'common/alt1/platform/Core'
 	],
 	#packageNames : [
-		'RowanSample9-Core-Alt1'
+		'RowanSample9V2-Core-Alt1'
 	],
 	#comment : ''
 }

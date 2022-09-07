@@ -6,7 +6,7 @@ RwPlatformSubcomponent {
 	#projectNames : [ ],
 	#componentNames : [ ],
 	#packageNames : [
-		'RowanSample9-Tests-PlatformC'
+		'RowanSample9V2-Tests-PlatformC'
 	],
 	#comment : ''
 }
