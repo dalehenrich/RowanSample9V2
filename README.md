@@ -4,7 +4,6 @@ Start with spec_0000, use Rowan packageConvention; simple project with extension
 RwLoadSpecificationV2 {
 	#specName : 'spec_0057',
 	#projectName : 'RowanSample9V2',
-	#projectAlias : 'RowanSample9',
 	#gitUrl : 'git@github.com:dalehenrich/RowanSample9V2.git',
 	#revision : 'spec_0057',
 	#projectSpecFile : 'rowan/project.ston',
