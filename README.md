@@ -192,6 +192,45 @@ RwTestProjectLibraryIndexCard {
 	#rowanSHA : '060ec98fc'
 }
 ```
+### [spec_0004_b](https://github.com/dalehenrich/RowanSample9V2/tree/spec_0004_b)
+```
+RwLoadSpecificationV2 {
+	#specName : 'spec_0004_b',
+	#projectName : 'RowanSample9V2',
+	#gitUrl : 'git@github.com:dalehenrich/RowanSample9V2.git',
+	#revision : 'spec_0004',
+	#projectSpecFile : 'rowan/project.ston',
+	#componentNames : [
+		'Core3',
+		'Core3'
+	],
+	#customConditionalAttributes : [
+		'tests'
+	],
+	#platformProperties : {
+		'gemstone' : {
+			'allusers' : {
+				#defaultSymbolDictName : 'RowanSample9_1'
+			}
+		}
+	},
+	#comment : 'Create inconsistency in component definitions ... duplicate package error expected on load'
+}
+
+RwTestProjectLibraryIndexCard {
+	#name : 'index_0004_b',
+	#title : 'Create inconsistency in component definitions ... duplicate package error expected on load',
+	#specName : 'spec_0004_b',
+	#index : 4,
+	#derivedFrom : 'master',
+	#comment : '',
+	#rowanIssues : [
+		532
+	],
+	#gemstoneIssues : [ ],
+	#rowanSHA : '060ec98fc'
+}
+```
 ### [spec_0005](https://github.com/dalehenrich/RowanSample9V2/tree/spec_0005)
 ```
 RwLoadSpecificationV2 {
