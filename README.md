@@ -4,7 +4,6 @@ Start with spec_0011; add 2 more instance methods and 3 class methods to RowanSa
 RwLoadSpecificationV2 {
 	#specName : 'spec_0081',
 	#projectName : 'RowanSample9V2',
-	#projectAlias : 'RowanSample9',
 	#gitUrl : 'git@github.com:dalehenrich/RowanSample9V2.git',
 	#revision : 'spec_0081',
 	#projectSpecFile : 'rowan/project.ston',
