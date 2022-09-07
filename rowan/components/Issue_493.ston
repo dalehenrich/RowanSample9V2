@@ -4,11 +4,11 @@ RwSimpleProjectLoadComponentV2 {
 	#projectNames : [ ],
 	#componentNames : [ ],
 	#packageNames : [
-		'RowanSample9-Core',
-		'RowanSample9-Extensions',
-		'RowanSample9-GemStone',
-		'RowanSample9-GemStone-Tests',
-		'RowanSample9-Tests'
+		'RowanSample9V2-Core',
+		'RowanSample9V2-Extensions',
+		'RowanSample9V2-GemStone',
+		'RowanSample9V2-GemStone-Tests',
+		'RowanSample9V2-Tests'
 	],
 	#comment : 'Single component that includes all of the packages'
 }
