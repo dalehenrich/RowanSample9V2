@@ -192,7 +192,7 @@ RwTestProjectLibraryIndexCard {
 	#rowanSHA : '060ec98fc'
 }
 ```
-### [spec_0004_b](https://github.com/dalehenrich/RowanSample9V2/tree/spec_0004_b)
+### [spec_0004_b](https://github.com/dalehenrich/RowanSample9V2/tree/spec_0004)
 ```
 RwLoadSpecificationV2 {
 	#specName : 'spec_0004_b',
