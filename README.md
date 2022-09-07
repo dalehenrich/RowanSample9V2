@@ -4,7 +4,6 @@ Start with spec_0002; read and write in Pharo tonel format v1.0 (keys and values
 RwLoadSpecificationV2 {
 	#specName : 'spec_0080',
 	#projectName : 'RowanSample9V2',
-	#projectAlias : 'RowanSample9',
 	#gitUrl : 'git@github.com:dalehenrich/RowanSample9V2.git',
 	#revision : 'spec_0080',
 	#projectSpecFile : 'rowan/project.ston',
