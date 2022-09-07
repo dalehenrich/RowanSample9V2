@@ -7,7 +7,7 @@ RwSubcomponent {
 		'Loader_pharo'
 	],
 	#packageNames : [
-		'RowanSample9-Loader'
+		'RowanSample9V2-Loader'
 	],
 	#comment : ''
 }

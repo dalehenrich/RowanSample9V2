@@ -4,7 +4,7 @@ RwSubcomponent {
 	#projectNames : [ ],
 	#componentNames : [ ],
 	#packageNames : [
-		'RowanSample9-Examples'
+		'RowanSample9V2-Examples'
 	],
 	#comment : ''
 }
