@@ -1,4 +1,4 @@
-RwSubcomponent {
+RwSimpleNestedProjectLoadComponentV2 {
 	#name : 'Tests_tests',
 	#condition : 'tests',
 	#projectNames : [ ],

@@ -1,4 +1,4 @@
-RwSubcomponent {
+RwSimpleNestedProjectLoadComponentV2 {
 	#name : 'Loader_common',
 	#condition : 'common',
 	#projectNames : [ ],
