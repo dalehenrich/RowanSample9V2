@@ -1,4 +1,4 @@
-RwSubcomponent {
+RwSimpleNestedProjectLoadComponentV2 {
 	#name : 'common/alt1/Core',
 	#condition : 'alt1',
 	#projectNames : [ ],

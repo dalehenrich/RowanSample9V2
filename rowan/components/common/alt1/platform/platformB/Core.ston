@@ -1,10 +1,8 @@
-RwPlatformSubcomponent {
+RwPlatformNestedProjectLoadComponentV2 {
 	#name : 'common/alt1/platform/platformB/Core',
 	#condition : [
 		'platformB'
 	],
-	#projectNames : [ ],
-	#componentNames : [ ],
 	#packageNames : [
 		'RowanSample9V2-Core-PlatformB'
 	],
