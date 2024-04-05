@@ -1,14 +1,11 @@
 {
-	"category" : "RowanSample9V2-GemStone",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
-	"instvars" : [
-		 ],
-	"name" : "RowanSample9V2IdentityKeyValueDictionary",
-	"pools" : [
-		 ],
 	"super" : "IdentityKeyValueDictionary",
-	"type" : "normal" }
+	"category" : "RowanSample9V2-GemStone",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "RowanSample9V2IdentityKeyValueDictionary",
+	"type" : "normal"
+}
