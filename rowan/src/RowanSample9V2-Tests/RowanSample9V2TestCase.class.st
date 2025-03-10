@@ -24,13 +24,13 @@ RowanSample9V2TestCase >> test5 [  self assert: RowanSample9V2Class1 new _123abc
 ]
 
 { #category : 'tests' }
-RowanSample9V2TestCase >> test6 [  self assert: RowanSample9V2Class1 new _ABC123
+RowanSample9V2TestCase >> test6 [  self assert: RowanSample9V2Class1 _ABC123
 ]
 
 { #category : 'tests' }
-RowanSample9V2TestCase >> test7 [  self assert: RowanSample9V2Class1 new _abc123
+RowanSample9V2TestCase >> test7 [  self assert: RowanSample9V2Class1 _abc123
 ]
 
 { #category : 'tests' }
-RowanSample9V2TestCase >> test8 [  self assert: RowanSample9V2Class1 new a_bc123
+RowanSample9V2TestCase >> test8 [  self assert: RowanSample9V2Class1 a_bc123
 ]
